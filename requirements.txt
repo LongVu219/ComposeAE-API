@@ -1,0 +1,10 @@
+torch
+torchvision
+tqdm
+numpy
+Pillow
+bert-serving-server
+bert-serving-client
+tensorflow==1.10.0
+protobuf==3.6.1
+
